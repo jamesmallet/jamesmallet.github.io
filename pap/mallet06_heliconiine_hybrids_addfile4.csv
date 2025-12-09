@@ -1,0 +1,162 @@
+No,Genus of species 1,Species 1,Subspecies of species 1,Genus of species 2,Species 2,Subspecies of species 2,Sex,Country,Locality,Year,Photo no,Named hybrid,Collection,Collector,Author,Notes
+1,Eueides,?vibilia,unifasciatus,Eueides,lybia,lybia,m,Brazil,Benjamin Constant,,lybvib01,,MN/UFRJ,K. Brown photo: MN4,,"F1; or maybe F1 lybia x tales, lybia x isabella, lybia x heliconioides?"
+2,Eueides,isabella,eva,Eueides,vibilia,vialis,m,Mexico,Veracruz: Vigía,1978,isavib01,,UNAM,A. Díaz Francés,,"F1, presumably"
+3,Eueides,isabella,eva,Eueides,vibilia,vialis,f,Mexico,Oaxaca: Chiltepec,1976,isavib02,,UNAM,A. Díaz Francés,,"F1, presumably"
+4,Eueides,isabella,eva,Eueides,vibilia,vialis,m,Mexico,Oaxaca: Sierra Juárez Metates,1978,isavib03,,UNAM,A. Díaz Francés,,"F1, presumably"
+5,Eueides,isabella,eva,Eueides,vibilia,vialis,m,Mexico,Oaxaca: Chiltepec,1975,isavib04,,UNAM,A. Díaz Francés,,"F1, presumably"
+6,Eueides,isabella,eva,Eueides,procula,vulgiformis,m,Costa Rica,Cartago: Juan Viñas,1902,isapro01,,MCZ,"M.H. Carriker, jr.",,"F1, presumably"
+7,Eueides,pavana,,Eueides,vibilia,vibilia,m,Brazil,?Rio de Janeiro,,pavvib01,,MN/UFRJ,K. Brown photo: MN6,,F1
+8,Heliconius,numata,superioris,Heliconius,melpomene,melpomene,m,Brazil,Rio Arapiuns,1980,nummel02,,Wien,H. Holzinger,"Holzinger & Holzinger 1994: 24,5c",F1: has red bar on fw
+9,Heliconius,numata,?superioris,Heliconius,melpomene,nr. meriana,m,Brazil,?Benjamin Constant ?Obidos,,nummel01,,MN/UFRJ,K. Brown photo: MN5,,F1?
+10,Heliconius,numata,?superioris,Heliconius,melpomene,nr. meriana,m,Brazil,Pará: Obidos,1985,nummel03,nr. seraphini,Neukirchen,,,F1?
+11,Heliconius,numata,aurora,Heliconius,melpomene,malleti,f,Peru,Loreto: Río Itaya,1997,nummel04,,Neukirchen,,,F1?
+12,Heliconius,hecale,vetustus,Heliconius,melpomene,thelxiopeia x melpomene,m,Guyane,St. Laurent,<1932,hecmel01,seraphini Talbot (holotype),BM,,"Ackery & Smiles 1976:123, Brown 1976:15d",F1? Interpreted by Ackery & Smiles and Brown 1976 as numata numata x melpomene thelxiopeia
+13,Heliconius,hecale,fortunatus,Heliconius,melpomene,melpomene,m,Brazil,?Benjamin Constant ?Obidos,,hecmel02,,MN/UFRJ,K. Brown photo: MN1,,F1
+14,Heliconius,hecale?,?,Heliconius,elevatus,zoelleri,f,Colombia,Guainia: Puerto Inírida,1974,hecele01,,Schmidt-Mumm/Instituto Alexander von Humboldt,E. Schmidt-Mumm,Velez & Salazar 1991: p. 132,BC->elevatus? on basis of phenotype; hecale as parent on basis of scalloped hindwing margin
+15,Heliconius,hecale,versicolor?,Heliconius,elevatus,pseudocupidineus,m,Peru,Loreto: Yurimaguas,1919,hecele02,f. noeldneri Neustetter (holotype),Wien,O. Michael,"Holzinger & Holzinger 1994: 27,1b",BC->elevatus? Suspected on basis of illustration & visit by Andrew Brower; hecale as parent suggested by regular spacing of apical spots and scalloped hindwing margin
+16,Heliconius,hecale,zeus,Heliconius,elevatus,perchlorus,m,Bolivia,Chaparé: Todos Santos,1969,hecele03,,Wien,H. Holzinger,,"F1? Andrew Brower (pers. comm., 1 July 2000): ""I think it is pretty clearly hecale x elevatus"""
+17,Heliconius,ethilla,nr. metalilis,Heliconius,melpomene,melpomene,m,?Colombia,,<1867,ethmel01,hippola Hewitson (syntype),BM,,"Ackery & Smiles 1976:173, Brown 1976:15a",F1?
+18,Heliconius,ethilla,nr. metalilis,Heliconius,melpomene,melpomene,f,Colombia,Meta: Río Negro,1970,ethmel03,nr. hippola,Schmidt-Mumm/Instituto Alexander von Humboldt,E. Schmidt-Mumm,Brown 1976: 15b,F1?
+19,Heliconius,ethilla,nr. metalilis,Heliconius,melpomene,melpomene,m,Colombia,Meta: Cubarral,1979,ethmel02,,Schmidt-Mumm/Instituto Alexander von Humboldt,E. Schmidt-Mumm,,BC->ethilla? very yellow
+20,Heliconius,ethilla,nr. metalilis,Heliconius,melpomene,melpomene,f,Colombia,Meta: Cubarral,1979,ethmel04,,Schmidt-Mumm/Instituto Alexander von Humboldt,E. Schmidt-Mumm,,BC->ethilla?; more yellow than hippola
+21,Heliconius,ethilla,metalilis,Heliconius,numata,peeblesi,m,Venezuela,Barinas: Barinitas,,ethnum02,,O. Mattei,K. Brown photo: Mattei 3,,F1
+22,Heliconius,ethilla,narcaea,Heliconius,numata,ethra,f,Brazil,Leopoldina,<1908,ethnum01,pseudonarcaeus Riffarth ined.,BM,Riffarth,Brown 1976: 15c,F1?
+23,Heliconius,ethilla,narcaea,Heliconius,besckei,,m,Brazil,Sta. Catarina: Rio Grande do Sul,,ethbes01,,Wien,H. Gerstner,"Holzinger & Holzinger 1994: 18,5b",F1
+24,Heliconius,ethilla,narcaea,Heliconius,besckei,,m,Brazil,Sta. Catarina: Joinville,1985,ethbes02,,Neukirchen,,,F1
+25,Heliconius,ethilla,narcaea,Heliconius,besckei,,m,Brazil,Sta. Catarina: Joinville,1981,ethbes03,,Para,H. Miers,,F1
+26,Heliconius,ethilla,narcaea,Heliconius,besckei,,m,Brazil,Rio de Janeiro: Imbarie,1963,ethbes04,,Para,H. Ebert,,F1
+27,Heliconius,ethilla,narcaea,Heliconius,besckei,,f,Brazil,Sta. Catarina: Agrolandia,<1997,ethbes05,,Para,H. Wulff,,F1
+28,Heliconius,ethilla,narcaea,Heliconius,besckei,,f,Brazil,Sao Paulo: Horto Forestal,1947,ethbes06,,Wien,H. Holzinger,,BC->besckei
+29,Heliconius,melpomene,rosina,Heliconius,cydno,galanthus,m,Costa Rica,Río Sarapiquí 600m,1993,melcyd01,,MNCR,M. Posla,Posla-Fuentes 1993,BC->cydno
+30,Heliconius,melpomene,rosina,Heliconius,cydno,galanthus,f,Costa Rica,Río Sarapiquí,1993,melcyd02,,,M. Posla,Posla-Fuentes 1993,BC->cydno
+31,Heliconius,melpomene,rosina,Heliconius,cydno,galanthus,f,Costa Rica,"Limón: Guácimo, San Luis",2001,melcyd57,,BM,T. Fox,,F1
+32,Heliconius,melpomene,rosina,Heliconius,cydno,chioneus,m,Panamá,Canal Zone: Pipeline Road,1979,melcyd03,,USNM,Gross,,BC->cydno
+33,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Balzapamba 800m,<1906,melcyd04,concinna Stichel (holotype),BM,R. Haensch,Ackery & Smiles 1976:184,BC->melpomene
+34,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Los Ríos: Río Palenque,1973,melcyd05,,Allyn,C. Dodson,,F1
+35,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Pichincha: Alluriquín 850m,1989,melcyd06,,"MHN, Lima",C. Callegari,,F1
+36,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Palmar 100m,~1905,melcyd07,,BM,R. Haensch,,BC->melpomene
+37,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Palmar 100m,~1905,melcyd08,,BM,R. Haensch,,BC->melpomene
+38,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Río Bamba,1931,melcyd09,,BM,Joicey,,BC->melpomene
+39,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Pichincha: S. Miguel de los Bancos,1993,melcyd10,,,D. Kapan,,BC->melpomene
+40,Heliconius,melpomene,cythera,Heliconius,cydno,alithea,m,Ecuador,Pichincha: El Padrino,1994,melcyd49,,,D. Kapan,,BC->melpomene
+41,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Bogotá,<1906,melcyd11,wernickei Weymer (holotype),BM,,"Ackery & Smiles 1976:277, Holzinger & Holzinger: 36,3a",BC->cydno
+42,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Caldas: Victoria,1966,melcyd12,nr. wernickei,Schmidt-Mumm/Instituto Alexander von Humboldt,E. Schmidt-Mumm,Salazar 1993:3,BC->cydno
+43,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Muzo 400-800m,<1912,melcyd13,emilius Weymer (holotype),BM,Fassl,"Ackery & Smiles 1976:278, Holzinger & Holzinger: 36,3b",F1
+44,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1986,melcyd22,nr. emilius,Neukirchen,J. Urbina,,"F1; red/y fw, small-spot hw wh margin up, scales un; v. reduced cydno brown C un"
+45,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,,<1892,melcyd14,rubellius  Grose-Smith & Kirby (syntype),BM,,"Ackery & Smiles 1976:279, Holzinger & Holzinger: 36,3c",F1
+46,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Santa Fé de Bogotá,1907,melcyd15,nr. rubellius,BM,Donckler,,F1
+47,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,,<1906,melcyd16,nr. rubellius,BM,Riffarth,,F1
+48,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Muzo 400-800m,<1912,melcyd17,nr. rubellius,BM,Fassl,,F1
+49,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Sta. Fé de Bogotá,<1930,melcyd18,nr. rubellius,BM,,,F1; crumpled hindwing
+50,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1980,melcyd19,nr. rubellius,Schmidt-Mumm/Instituto Alexander von Humboldt,J. Urbina,Salazar 1993:4,F1
+51,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Caldas: Victoria,1960,melcyd47,nr. rubellius,Schmidt-Mumm/Instituto Alexander von Humboldt,E. Schmidt-Mumm,,F1
+52,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,"Caldas: Río La Miel, 1.8 km N Victoria",1969,melcyd51,nr. rubellius,Stuttgart,D. Brezing,,F1
+53,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1990,melcyd20,nr. rubellius,Schmidt-Mumm/Instituto Alexander von Humboldt,J. Urbina,Salazar 1993:5,F1
+54,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche 500m,1986,melcyd21,,Neukirchen,J. Urbina,,F1
+55,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Cund.: Verag.,,melcyd48,nr. rubellius,Wien,Neustetter,,F1
+56,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,f,Colombia,Boyacá: Otanche,2001,melcyd58,nr. eugenius,Le Crom,,,BC -> cydno; well-dev submarginal hw white spots
+57,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1999,melcyd59,nr. wernickei,Le Crom,?J. Urbina,,BC->cydno
+58,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1985,melcyd63,nr. rubellius,Le Crom,?J. Urbina,,F1
+59,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1986,melcyd64,nr. rubellius,Le Crom,?J. Urbina,,F1
+60,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1988,melcyd65,nr. rubellius,Le Crom,?J. Urbina,,F1
+61,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,f,Colombia,Boyacá: Otanche,1983,melcyd66,nr. rubellius,Le Crom,?J. Urbina,,?F1
+62,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1993,melcyd67,nr. rubellius,Le Crom,?J. Urbina,,F1
+63,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Boyacá: Otanche,1991,melcyd68,nr. rubellius,Le Crom,?J. Urbina,,F1
+64,Heliconius,melpomene,{euryas},Heliconius,cydno,cydno,m,Colombia,Huila: San José Isnos,1990,melcyd60,nr. wernickei,Le Crom,J.F. Le Crom,,BC->cydno
+65,Heliconius,melpomene,{euryas},Heliconius,cydno,hermogenes,f,Colombia,N. Granade,<1925,melcyd23,aventina Oberthur (holotype),BM,,"Ackery & Smiles 1976:268,  Holzinger & Holzinger: 36,5c",F1
+66,Heliconius,melpomene,vulcanus,Heliconius,cydno,?chioneus,m,Colombia,(W. Colombia),<1928,melcyd24,eugenius Niepelt (holotype),?Wien,,"Holzinger & Holzinger 1994: 35,4b",BC -> cydno; well-dev submarginal hw white spots
+67,Heliconius,melpomene,vulcanus,Heliconius,cydno,chioneus,m,Colombia,(W. Colombia),,melcyd25,,Krüger,,,"BC->cydno, [Tomas Pyrcz photo]"
+68,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,m,Colombia,"Chocó: Río San Juan, Palestrina",1988,melcyd26,,Neukirchen,C. Farrell,,"BC->cydno; thin red/broad wh fw, reduced cydno brown C un"
+69,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,m,Colombia,"Chocó: Río San Juan, Palestrina",1988,melcyd27,,Neukirchen,C. Farrell,,"F1; red/wh fw, v. strong + yellow expression of brown C un"
+70,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,m,Colombia,"Chocó: Río San Juan, Palestrina",1988,melcyd28,,Neukirchen,C. Farrell,,"F1; red/wh fw, reduced brown C un, interacts with y hw bar"
+71,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,f,Colombia,"Chocó: Río San Juan, Palestrina",1988,melcyd29,,Neukirchen,C. Farrell,,"F1; red/wh fw, reduced brown C un, interacts with y hw bar"
+72,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,m,Colombia,Valle: Cali,1973,melcyd30,nr. rubellius,Mast de Maeght,L. Denhez?,,"F1; red/white fw band, shadow reduced hw bar"
+73,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,f,Colombia,"Valle: Isla Punta Soldado, Buenaventura",2000,melcyd61,,Efraín Henao,,,F1
+74,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,f,Colombia,"Valle: Estación Agrícola del Bajo Calima, Río Calima",1979,melcyd62,,A. Jaramillo,Instituto de Ciencias Naturales,,BC->melpomene
+75,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,m,Colombia,Valle: Cali,1969,melcyd31,,Mast de Maeght,L. Denhez?,,BC->cydno; narrowed y hw bar
+76,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. gustavi,m,Colombia,Valle: Río Dagua,1987,melcyd32,,Neukirchen,L. Denhez/Gerstner,,BC->cydno; like gustavi + faint red fw
+77,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. gustavi,m,Colombia,Valle: Río Dagua,,melcyd33,,Neukirchen,L. Denhez/Gerstner,,BC->cydno; like gustavi + faint red fw
+78,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,f,Colombia,Valle: Río Dagua,1969,melcyd34,,Wien,L. Denhez,,"BC->cydno; y hw bar on un only, y scales up"
+79,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,m,Colombia,Valle: Río Dagua,1968,melcyd35,,Mast de Maeght,L. Denhez?,,"BC->cydno; partial upperside, stronger underside y hw bar"
+80,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,m,Colombia,Valle: Río Dagua,1967,melcyd36,,Mast de Maeght,L. Denhez?,,"BC->cydno; trace upperside, strong partial underside narrow y hw bar"
+81,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,m,Colombia,Valle: Río Dagua,~1970,melcyd37,nr. rubellius,Mast de Maeght,Gerstner,,F1 (or ?backcross due to broad cydno C?); red/y fw up
+82,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,m,Colombia,Valle: Río Dagua,1968,melcyd38,,Mast de Maeght,L. Denhez?,,"BC->cydno; narrowed y hw bar un, 1/2 expressed up"
+83,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,m,Colombia,Valle: Río Dagua,1966,melcyd39,,Mast de Maeght,L. Denhez?,,"BC->cydno; narrowed y hw bar un, few scales up"
+84,Heliconius,melpomene,vulcanus,Heliconius,cydno,weymeri f. weymeri,m,Colombia,Valle: Río Dagua,1966,melcyd40,f. pseudoweymeri (paratype),Mast de Maeght,L. Denhez,,"BC->cydno; broad y hw bar, 1/2 expressed up"
+85,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,f,Colombia,"Valle: Río Calima, nr. Río Bravo, 1200m",1988,melcyd41,,Neukirchen,C. Farrell,,BC->cydno
+86,Heliconius,melpomene,vulcanus,Heliconius,cydno,zelinde,f,Colombia,"Valle: Río Calima, nr. Río Bravo, 1200m",1988,melcyd42,,Neukirchen,C. Farrell,,"BC->cydno; red/wh fw band, reduced cydno brown C un hw"
+87,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,f,Venezuela,Táchira: PN Paramillo 1140m,2002,melcyd52,,Linares,M. Linares,,BC->cydno
+88,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,m,Venezuela,Táchira: PN Paramillo 1140m,2002,melcyd53,,Linares,M. Linares,,BC->cydno
+89,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,f,Venezuela,Táchira: PN Paramillo 1140m,2002,melcyd54,,Linares,M. Linares,,BC->cydno
+90,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,f,Venezuela,Táchira: PN Paramillo 1140m,2002,melcyd55,,Linares,M. Linares,,BC->cydno
+91,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,f,Venezuela,Táchira: PN Paramillo 1140m,2002,melcyd56,,Linares,M. Linares,,BC->cydno
+92,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,f,Venezuela,Táchira: Río Negro,1980,melcyd43,,Maracay,J. Clavijo,Brown & Fernandez 1984:176,F1
+93,Heliconius,melpomene,melpomene,Heliconius,cydno,cordula,m,Venezuela,?Táchira,~1980,melcyd44,,F. Romero,,,"BC->cydno, [Neukirchen photo, from his house, unknown data]"
+94,Heliconius,melpomene,melpomene,Heliconius,cydno,gadouae,m,Venezuela,?Táchira,~1980,melcyd45,,F. Romero,,,"F1, [Neukirchen photo, from his house, unknown data]"
+95,Heliconius,melpomene,melpomene,Heliconius,cydno,barinasensis,m,Venezuela,Barinas: Barinitas,<1984,melcyd46,,O. Mattei,K. Brown photo: Mattei 1,Brown & Fernandez 1984:177,F1
+96,Heliconius,melpomene,melpomene,Heliconius,cydno,barinasensis,f,Venezuela,?Barinas: Barinitas,,melcyd50,,O. Mattei,K. Brown photo: Mattei 2,,BC->cydno
+97,Heliconius,melpomene,melpomene,Heliconius,heurippa,,f,Colombia,Cund.: Chirijara,1991,melheu01,nr. rubellius,Schmidt-Mumm/Instituto Alexander von Humboldt,D. Acosta,Salazar 1993:7,BC->heurippa
+98,Heliconius,cydno,galanthus,Heliconius,pachinus,,m,Costa Rica,,,cydpac01,subrufescens Schaus (holotype),Wien,,"Holzinger & Holzinger:35,2b",BC->cydno; broad rufous patch on un similar to that in melcyd37
+99,Heliconius,cydno,galanthus,Heliconius,pachinus,,m/f,Costa Rica,Río Sarapiquí,~1980,cydpac02,,Gilbert,L.Gilbert,,BC->cydno; mutants appearing in broods
+100,Heliconius,cydno,galanthus,Heliconius,pachinus,,m,Costa Rica,Heredia: La Selva Biological Station,2002,cydpac03,,M. Kronforst,K. Kronforst,,BC->cydno
+101,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma 1200m,1982,erahim01,lafitei,Descimon,F. Lafite,"Descimon &c 1984: 1.2 (#1), Holzinger & Holzinger: 47,1c",F1
+102,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma 1200m,1982,erahim07,lafitei,Descimon,H. Descimon,Descimon &c 1984: (#2),F1
+103,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma 1250m,1982,erahim08,lafitei,Mast de Maeght,J. Mast de Maeght,Descimon &c 1984: (#3),F1
+104,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma 1250m,1982,erahim09,clarae,Descimon,H. Descimon,Descimon &c 1984: 1.4 (#4),BC->erato
+105,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma 1250m,1982,erahim10,clarae,Descimon,H. Descimon,Descimon &c 1984: 1.5 (#5),BC->erato
+106,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma 1200m,1982,erahim11,petri,Descimon,F. Lafite,Descimon &c 1984: 1.6 (#6),BC->himera
+107,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim12,,Mallet,Mallet,Jiggins &c 1996: #7,F1
+108,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim13,,Mallet,Mallet,Jiggins &c 1996: #8,F1
+109,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim14,,Mallet,Mallet,Jiggins &c 1996: #9,BC->erato
+110,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim15,,Neukirchen,S. Attal,Jiggins &c 1996: 4B (#10),"BC->himera, Neukirchen slide 1"
+111,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim16,,Neukirchen,S. Attal,Jiggins &c 1996: 4A (#11),"F1, Neukirchen slide 2"
+112,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim17,,Neukirchen,M.Büche,Jiggins &c 1996: 4F (#12),"BC->erato, Neukirchen slide 4"
+113,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim18,,Neukirchen,M.Büche,Jiggins &c 1996: #13,"BC->erato, Neukirchen slide 3"
+114,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 4,1993,erahim19,,Neukirchen,M.Büche,Jiggins &c 1996: 4E (#14),"BC->erato, Neukirchen slide 5"
+115,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim20,,Neukirchen,M.Büche,Jiggins &c 1996: 4C (#15),"BC->himera, Neukirchen slide 6"
+116,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim21,,Neukirchen,S. Attal,Jiggins &c 1996: #16,"F1, Neukirchen slide 7"
+117,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1993,erahim22,,Neukirchen,S. Attal,Jiggins &c 1996: 4D (#17),"BC->erato, Neukirchen slide 8"
+118,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 4,1993,erahim23,,Neukirchen,S. Attal,Jiggins &c 1996: #18,"BC->erato, Neukirchen slide 9"
+119,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 5,1994,erahim24,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #19,F1
+120,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 9,1994,erahim25,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #20,F1
+121,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 6,1994,erahim26,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #21,F1
+122,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 6,1994,erahim27,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #22,F1
+123,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 5,1994,erahim28,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #23,BC->himera
+124,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1994,erahim29,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #24,F1
+125,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1994,erahim30,,Jiggins &c,Jiggins &c,Jiggins &c 1996: 4H (#25),BC->himera
+126,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1994,erahim31,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #26,BC->erato
+127,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 4,1994,erahim32,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #27,BC->erato
+128,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 3,1994,erahim33,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #28,BC->erato
+129,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 2,1994,erahim34,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #29,BC->erato
+130,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 6,1994,erahim35,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #30,BC->erato
+131,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 6,1994,erahim36,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #31,BC->himera
+132,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 5,1994,erahim37,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #32,F1
+133,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 5,1994,erahim38,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #33,F1
+134,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 5,1994,erahim39,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #34,F1
+135,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 5,1994,erahim40,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #35,BC->erato
+136,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 8,1994,erahim41,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #36,F1
+137,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Chaguarpamba site 15,1994,erahim42,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #37,F1
+138,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Chaguarpamba site 15,1994,erahim43,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #38,BC->erato
+139,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 4,1994,erahim44,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #39,BC->himera
+140,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 4,1994,erahim45,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #40,F1
+141,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 7,1994,erahim46,,Jiggins &c,Jiggins &c,Jiggins &c 1996: 4G (#41),BC->himera
+142,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 5,1994,erahim47,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #42,BC->himera
+143,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 7,1994,erahim48,,Jiggins &c,Jiggins &c,Jiggins &c 1996: #43,BC->erato
+144,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 4,1996,erahim49,,Jiggins &c,Jiggins &c,Mallet &c 1998: Tab1,F1
+145,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 6,1996,erahim50,,Jiggins &c,Jiggins &c,Mallet &c 1998: Tab1,BH
+146,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Quebrada de la Zarza,1996,erahim51,,Jiggins &c,Jiggins &c,Mallet &c 1998: Tab1,BC->himera
+147,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 9,1996,erahim52,,Jiggins &c,Jiggins &c,Mallet &c 1998: Tab1,F1
+148,Heliconius,himera,,Heliconius,erato,cyrbia,f,Ecuador,El Oro: Guayquichuma site 15,1996,erahim53,,Jiggins &c,Jiggins &c,Mallet &c 1998: Tab1,F1
+149,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma site 15,1996,erahim54,,Jiggins &c,Jiggins &c,Mallet &c 1998: Tab1,F1
+150,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma,2001,erahim55,,Boyer,P. Boyer,,F1
+151,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma,2001,erahim56,,Boyer,P. Boyer,,BC->erato
+152,Heliconius,himera,,Heliconius,erato,cyrbia,m,Ecuador,El Oro: Guayquichuma,2001,erahim57,,Boyer,P. Boyer,,BC->erato
+153,Heliconius,himera,,Heliconius,erato,favorinus,m,Peru,"San Martín: Rodriguez de Mendoza, 1500m",1984,erahim02,,König,,"König 1986, Holzinger & Holzinger:47,1b","F1,  [Werner Zöller photo]"
+154,Heliconius,himera,,Heliconius,erato,favorinus,m,Peru,San Martín: Rodriguez de Mendoza,1994,erahim03,,Neukirchen,M. Bucher,,BC to erato
+155,Heliconius,himera,,Heliconius,erato,favorinus,m,Peru,San Martín: Rodriguez de Mendoza-Omia km 11,1986,erahim05,,Mallet,J.Mallet,,BC to erato
+156,Heliconius,himera,,Heliconius,erato,favorinus,m,Peru,San Martín: Rodriguez de Mendoza-Omia km 11,~1986,erahim06,,König,,,"BC to erato, [Werner Zöller photo]"
+157,Heliconius,himera,,Heliconius,erato,lativitta,m,Peru,Amazonas: Aramango,<1990,erahim04,,König,,,"F1, [Werner Zöller photo]"
+158,Heliconius,erato,petiveranus,Heliconius,charithonia,vasquezae,m,Mexico,"Oaxaca: Sierra Juarez, Chiltepec",1970,eracha01,,UNAM,A. Díaz Francés,"De la Maza 1991:III,11",F1? or BC to erato
+159,Heliconius,charithonia,charithonia,Heliconius,peruvianus,,m,Ecuador,"Pichincha: Río Toachi, 1700m",1996,chaper01,,Jiggins,C.Jiggins,Jiggins & Davies 1998,"BC->charithonia (allozymes); sparse overlap/hybridization, on basis of allozyme data"
+160,Heliconius,hecalesia,octavia,Heliconius,hortense,,m,Mexico,Oaxaca: Valle Nacional 1200m,1987,hcshor01,,Neukirchen,T. Porion,,F1
+161,Heliconius,hecalesia,formosus,Heliconius,clysonymus,montanus,m,Costa Rica,"Cartago: Jicotea, Turrialba 1100m",1995,hcscly01,,MNCR,"G. Vega, A. Valerio",,F1

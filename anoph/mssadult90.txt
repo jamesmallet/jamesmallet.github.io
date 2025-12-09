@@ -1,0 +1,415 @@
+\surveys\mssadult.90    Updated 18 March 1993 & February 2002.
+
+     This text file should be viewed with a "vanilla" text editor
+     (or convert to Courier font in a word processor).
+           Lat/Longs (and some corrections) added 10 Feb 2002.
+
+
+                Riceland Mosquito Management Program
+
+        1990 Mississippi Anopheles quadrimaculatus Adult Survey
+
+This survey was conducted by the following Mississippi State University
+Entomology personnel.
+
+                        James Mallet
+                        Robert Fritzius
+                        Sonny Ramaswamy
+                        Huang Jia-Xing
+                        Michael Caprio
+
+
+All collection dates (mmdd) are for 1990.
+Lat/Longs given in degs mins secs.
+
+Abbreviations:  (UB) Under Bridge
+                (TH) Tree Holes
+                (CV) Culvert
+
+Site names are usually based on first 3 letters of the county plus a
+numerical sequence number.  Where the site is at the border of two
+counties the first letters of the counties, separated by a slash,
+is used.  Example  Amite - Wilkinson  = A/W.
+
+Any numerical values that have been corrected from the previous edition
+of this file are preceded by a single quotation mark.
+
+Note, species:    A: Anopheles quadrimaculatus sensu stricto
+                  B: Anopheles smaragdinus
+                  D: Anopheles maverlius
+(see Reinert et al., 1997. Journal of the American Mosquito Control
+Association, vol. 13 (Supplement), 1-102).
+
+Coll                                1990                      Species
+Site & Location                     Date  Gel-#s   Number    A   B   D
+                                    mmdd  ###-##   left
+
+Amite-Wilkinson Co. Bridge 100 Yds  0917  433-10             9   1   0
+S. of Hwy 33 in Crosby (12 Anop)          504-03             3   0   0
+A-W 01  31 16 53N 91 03 47W (UB)          524-02             2   0   0
+                                              ------------------------
+                                              15           '14   1   0
+
+
+Amite-Wilkinson Co. Foster Creek    0917  506-15            14   0   1
+bridge Hwy 33, 2 Mi (1.3) W. of           515-19            19   0   0
+Crosby (48 Anop)                          516-14            14   0   0
+A-W 02  31 17 29N 91 04 51W (UB)
+                                              ------------------------
+                                              48            47   0   1
+
+
+Atalla Co. Bridge Yockanookany R.   0919  404-20            17   0   0
+2.7 Mi. S. Koscuisko  (45+ anop)          436-20            20   0   0
+ATL 01  33 01 55N 89 34 39W (UB)          526-07            07   0   0
+                                              ------------------------
+                                              47            44   0   0
+
+
+Bolivar Co. James' Barn             0906  407-19            19   0   0
+2.5 Mi SSW of Cleveland                   408-19            19   0   0
+Apx 100                                   503-15            15   0   0
+BOL 02  33 43 04N 90 44 45W               504-16     30     16   0   0
++/- 0.5 Mi  (Not Township Road!)              ------------------------
+South end of Bishop Rd.                       69            69   0   0
+
+
+Bolivar Co. (Zumbro) Tractor Barn   0906  405'39           '39   0   0
+3 Mi NE of Cleveland                      501-20            20   0   0
+BOL 03  33 46 50N 90 40 32W               525-14     26     14   0   0
+        +/- 0.2 Mi                            ------------------------
+                                             '73           '73   0   0
+
+
+Bolivar Co. Legion Lake,            0906  434-10            10   0   0
+Mississippi River (side waters)           509-16            16   0   0
+BOL 04  33 49 16N 91 00 26W               510-20            20   0   0
+         +/-0.7 Mi                        527-20            20   0   0
+                                          528-19     30+    19   0   0
+                                              ------------------------
+                                              85            85   0   0
+
+
+Calhoun Co. Bridge 1 Mi S. of       0913  505-18            18   0   0
+Bruce on Hwy 9                            506-04             4   0   0
+CAL 01  33 58 25N 89 20 51W (UB)              ------------------------
+                                              22            22   0   0
+
+
+Claiborne Co. Little Bayou Pierre   0917  509-03      5      3   0   0
+N. Edge of Port Gibson  Hwy 61                ------------------------
+CLB 01  31 57 53N 90 58 47W (UB)              3              3   0   0
+
+
+Claiborne Co. Little Bayou Pierre   0919  503-12            12   0   0
+N. Edge of Port Gibson Hwy 61             504-07             7   0   0
+(Call back)                                   ------------------------
+CLB 01  31 57 53N 90 58 47W (UB)              19            19   0   0
+
+
+Coahoma Co. Friars Point, between   0907  436-19            19   0   0
+Levee and Mississippi Riv.                519-19            19   0   0
+COA 01  34 22 46N 90 37 38W (TH)          520-20            20   0   0
+         +/- 0.5 Mi                       525-19            19   0   0
+                                              ------------------------
+                                              77            77   0   0
+
+
+Copiah Co. small Hwy 28 bridge      0920  409-16             5  11   0
+200 yards west of PEARL RIVER             410-15             6   9   0
+(62 anop)                                 509-08             3   5   0
+COP 01  31 52 29N 90 08 25W (UB)          510-19             9  10   0
+                                              ------------------------
+                                              58            23  35   0
+
+
+Copiah-Simpson PEARL RIVER Bridge   0920  513-17            10   7   0
+Highway 28  (Steel bridge)                    ------------------------
+C-S 01  31 52 30N 90 08 17W (UB)              17            10   7   0
+
+
+Desoto Co. Woods at Northwest       0907  501-19            19   0   0
+Corner of Arkabutla Lake                  519-20            20   0   0
+DES 01  34 47 15N 90 07 05W (TH)          520-19            19   0   0
+         +/- 0.5 Mi                       524-18     25     18   0   0
+                                              ------------------------
+                                              76            76   0   0
+
+
+Grenada Co. Hugh White State Park   0907  434-10            10   0   0
+Boat Dock  (Inside sheds)                 525-06             6   0   0
+GRE 01  33 48 22N 89 44 34W               526-18            18   0   0
+           +/- 1.0 Mi                         ------------------------
+                                              34            34   0   0
+
+
+Harrison Co. Gulfport, Bridge       0916  403-20            20   0   0
+1 mi S. of I-10, on Hwy 49                    ------------------------
+TURKEY CREEK                                  20            20   0   0
+HAR 01  30 24 47N 89 05 33W (UB)
+
+
+Harrison Co. Gulfport, Bridge       0916  509-12            12   0   0
+100 yds W of Hwy 49, 1 Mi S. of I-10          ------------------------
+TURKEY CREEK                                  12            12   0   0
+HAR 02  30 24 43N 89 05 40W (UB)
+
+
+Hinds-Madison Co. PEARL RIVER       0919  409-19            14   5   0
+Hwy 25 East of Jackson (62 anop)          410-19            16   3   0
+H-M 01  32 19 49N 90 07 44W (UB)          506-20            18   2   0
+                                          516-03             1   2   0
+                                              ------------------------
+                                              61            49  12   0
+
+
+Hinds-Rankin Co. PEARL RIV          0919  433-21            21   0   0
+S. of downtown Jackson on Hwy 80          ----------------------------
+H-R 01  32 16 50N 90 10 43W (UB)              21            21   0   0
+
+
+Humphreys Co. Belzoni               0428  313-13            13   0   0
+Wister Gardens (Light Residential)        314-11            11   0   0
+HMP 01  33 12 11N 90 29 08W                   ------------------------
+                                              24            24   0   0
+
+
+Jackson Co. PASCAGOULA RIV          0916  404-15            12   3   0
+3.8 Mi W. of Wade, Hwy 614                502-22            15   7   0
+JKS 01  30 36 28N 88 38 25W (UB)          517-20            20   0   0
+                                          518-19            18   1   0
+       Looks different from other gels    525-14             9   5   0
+                                              ------------------------
+                                              90            74  16   0
+
+
+Lauderdale Co. Ruben Morgan Rodeo   0911  503-12            12   0   0
+Lauderdale, restrooms, barns              504-13            13   0   0
+LAU 01  32 31 08N 88 30 57W                   ------------------------
+                                                            25   0   0
+
+
+Leake Co. PEARL RIVER Bridge       0911   434-10             4   6   0
+Hwy 30, East edge of Edinburgh            511-19             8  10   1
+LKE 01  32 47 55N 89 20 06W (UB)          512-19             9  10   0
+                                          524-12             6   6   0
+                                              ------------------------
+                                              60            27  32   1
+
+
+Marion Co. PEARL RIVER Bridges      0917  435-19            13   4   2
+1.5 Mi SW of Columbia (88 Anop)           517-19            18   1   0
+MRN 01  31 14 16N 89 50 50W (UB)          518-19            15   4   0
+                                          522-20            15   4   1
+                                          524-07             6   1   0
+                                              ------------------------
+                                              84            67  14   3
+
+
+Neshoba Co. Bridges just west of    0911  507-19             9  10   0
+down town Philadephia on Hwy 30     0911  508-19            11   8   0
+Bounteous anopheles!                0911  515-19            13   6   0
+NSH 01  32 46 03N 89 08 08W (UB)    0911  516-20             9  11   0
+                                              ------------------------
+                                              77            42  35   0
+
+
+Noxubee Co. Nox Refuge Hut A        0422  315-10             6   4   0
+NOX 70  33 16 45N 88 47 34W         0423  316-16            10   4   2
+                                    0424  316-04             4   0   0
+                                    0425  316-06             5   1   0
+                                    0425  311-04             3   1   0
+                                    0426  311-09             7   2   0
+                                    0427  312-06             5   0   1
+                                    0430  311-14            13   1   0
+                                    0430  312-01             1   0   0
+                                    0502  317-14            13   1   0
+                                    0502  318-12            12   0   0
+                                              ------------------------
+                                              96            79  14   3
+
+
+Noxubee Co. Nox Refuge Hut B        0423  315-08             6   2   0
+NOX 71  33 16 45N 88 47 34W         0423  314-07             6   0   1
+                                    0423  315-01             0   1   0
+                                    0426  311-06             6   0   0
+                                    0427  312-04             4   0   0
+                                    0430  312-18            16   1   1
+                                    0502  318-27            22   5   0
+                                    0621  322-19             1  12   6
+                                              ------------------------
+                                              90            61  21   8
+
+
+Noxubee Co. Nox Refuge Boat Dock    0422  315-01             1   0   0
+Restrooms (inside & out)            0424  312-02             2   0   0
+NOX 72  33 16 13N 88 46 45W         0427  312-02             2   0   0
+                                    0605  319-10             5   5   0
+                                    0607  319-17             9   7   1
+                                    0607  320-04             3   1   0
+                                    0608  319-10             4   6   0
+                                    0612  320-07             4   3   0
+                                    0614  320-07             3   2   2
+                                    0615  320-11             1  10   0
+                                    0621  322-10             7   3   0
+                                              ------------------------
+                         was shown as 41-->  '81            41  37   3
+
+
+Noxubee Co. Nox Refuge Big Trees    0423  315-07             1   5   1
+NOX 73  33 17 03N 88 46 40W         0423  316-08             2   6   0
+maybe ranger hut?                   0424  316-05             2   2   1
+                                    0425  311-05             2   3   0
+                                    0426  311-01             0   1   0
+                                    0430  312-06             4   2   0
+                                    0502  317-07             4   3   0
+                                    0504  317-18             5  13   0
+                                              ------------------------
+                                              57            20  35   2
+
+
+Panola Co. Sardis Dam Lower Lake    0913  502-17            17   0   0
+Culverts at Jct Hwy 35 & 315                  ------------------------
+PAN 01  34 23 44N 89 47 29W (CV)              17            17   0   0
+
+
+Panola Co. Sardis Dam Lower Lake    0913  406-38            38   0   0
+Cypress Pt. Refreshment stand             511-14            14   0   0
+PAN 02  34 23 59N 89 48 26W                   ------------------------
+                                              52            52   0   0
+
+
+Pearl River Co. HOBOLACHITA CREEK   0915  403-09             9   0   0
+Hwy 11, N. edge of Picayunne, bridge          ------------------------
+bldgs & woods                                  9             9   0   0
+PRR 01  30 32 13N 89 40 38W (UB+)
+
+
+Pearl River Co. HOBOLACHITA CREEK   0915  403-08             8   0   0
+I-55, East of Picayunne                       ------------------------
+PRR 02  30 31 41N 89 39 27W (UB)               8             8   0   0
+
+
+Perry Co. Hwy 42 at BOGUE HOMA      0917  433-08             5   2   1
+CREEK                                         ------------------------
+PRY 01  31 21 28N 89 01 35W (woods)            8             5   2   1
+
+
+Prentiss Co. 3.0 Mi West of         0913  505-20            20   0   0
+Jumpertown on Hwy 4 (Not Hwy 30)              ------------------------
+PRN 01  34 43 21N 88 42 37W (UB)              20            20   0   0
+
+
+Sharkey Co. Delta National Forest   0428  313-33            33   0   0
+Blue Lake Campground under bridge         314-21            21   0   0
+SHR 01  32 49 17N 90 48 31W (UB)              ------------------------
+HOWLETT BAYOU                                 54            54   0   0
+
+
+Simpson Co. OKATOMA CREEK           0920  411-19 bad gel    13   2   -
+3 Mi East of Magee on Hwy 28              412-19 bad gel     -   -   -
+SMP 01  31 51 49N 89 41 27W (UB)          435-20            17   2   1
+                                          513-02             1   1   0
+                                          514-19            18   1   0
+                                          521-19            18   1   0
+                                          522-19            16   1   2
+                                              ------------------------
+                                             117            83   8   3
+
+
+Union Co. Jct of Hwys 30 and 355    0913  407-19            19   0   0
+13 MI. W. of New Albany, bridge           408-19            19   0   0
+under Hwy 30 and culvert under            511-06             6   0   0
+Hwy 355 (sites are apx 100 yds            512-19            19   0   0
+apart)                                    513-19            19   0   0
+UNN 01  34 28 41N 89 13 46W (CV)          514-20            20   0   0
+                                              ------------------------
+                                             102           102   0   0
+
+Warren-Hinds Co. BIG BLACK RIVER    0919  411-20             -
+Hwy I-20 approx 12 Mi E. of               412-20             -
+Vicksburg (172 anop)                      434-09             3   6   0
+W-H 01  32 21 10N 90 37 48W (UB)          507-19             7  12   0
+                                          508-19            11   8   0
+                                          523-18             8  10   0
+                                          527-13             9   4   0
+                                          528-20   34        6  14   0
+                                              ------------------------
+                                             138            34  54   0
+
+          705/'1895 = 0.37                 '1895  119    '1549 321  25
+
+
+                          + + + + + + + + + + + + + + + +
+                         +  +                             +
+                        +    +                             +
+                       +  Desoto               Prentiss    +
+                      +   76,0,0                20,0,0     +
+                      +       +           Union            +
+                     +         Panola    102,0,0           +
+                  Coahoma      69,0,0                      +
+                  77,0,0       +                          +
+                  +            +                          +
+                 +             +                          +
+                +              +        Calhoun           +
+               +               +        22,0,0            +
+              +  Bolivar       +Grenada                   +
+              + '227,0,0       + 34,0,0                  +
+              +                +                         +
+              +   D E L T A    +                         +
+              +                +                         +
+              +                +                         +
+              +               +                  NoxRef  +
+              +    Humphreys +                 201,107,16+
+               +    24,0,0   +      Attala              +
+               +            +       44,0,0              +
+               +Sharkey    +                            +
+              + 47,0,0    +          Leake  Neshoba     +
+              +           +         27,32,1 42,35,0     +
+              +         +           +                  +
+               +      +            +            Lauderdale
+               +    +             +               25,0,0
+                +  +          Hnd-Rnk                  +
+                 Wrn-Hnd      49,12,0                  +
+                +34,54,0    21,0,0 <--urban Jackson    +
+               +              +                        +
+              +              +                         +
+             Claiborne     Cop-Smp  Simpson             +
+              22,0,0       33,42,3   83,8,3             +
+            +                 +                         +
+           +                  +                         +
+          +                    + <--Pearl River         +
+         +                      +                        +
+        +                        +            Perry      +
+        +                         +           5,2,1      +
+       +    Amite-Wilk           Marion                  +
+       +     62,1,1              68,13,3                 +
+       +                           +                     +
+       + + + + + + + + + + + + + + +                      +
+                                    +                     +
+   Mississippi 1990 Statewide      +                      +
+Anopheles Quadrimaculatus Survey   +                      +
+                                   Pearl Riv        Jackson
+            Legend                  17,0,0          74,16,0
+            County                  +      Harrison       +
+            A,B,D                    +      32,0,0 + + + +
+                                      +    +
+Riceland Mosquito Management Program    + +
+
+
+Sibling Species versus color
+
+
+PAN 01   900913  406     33 A Brown
+PAN 01   900913  406      3 A Green
+M/H 01   900919  410-06   1 B Green
+M/H 01   900919  410-07   1 A Grey
+SMP 01   900920  411     11 A Greyish Black
+SMP 01   900920  411      2 B Greyish Black
+W/H 01   900919  411      5 A Greyish Black
+W/H 01   900919  411      5 B Greyish Black
+SMP 01   900920  412      7 A Greyish Black
+SMP 01   900920  412      1 B Greyish Black
+W/H 01   900919  412      4 A Greyish Black
+W/H 01   90 0919 412      5 B Greyish Black
+

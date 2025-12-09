@@ -1,0 +1,11 @@
+AuthType Basic
+AuthDBMGroupFile /nfs/fs-w/www/support/dbmauth/dbmauth
+AuthDBMUserFile /nfs/fs-w/www/support/dbmauth/dbmauth
+AuthName "The UCL Intranet"
+
+order deny,allow
+deny from all
+
+require group ucl-pg ucl-ug ucl-staff // --you must put in the groups you want here such as biol-pg, biol-ug etc --//
+
+satisfy any

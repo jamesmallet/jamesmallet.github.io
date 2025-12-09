@@ -1,0 +1,100 @@
+\entomol\ms-aq-93.txt   Created 5 March 2002
+
+     This text file should be viewed with a "vanilla" text editor
+     (or convert to Courier font in a word processor).
+
+
+            Riceland Mosquito Management Program
+
+      1993 Mississippi Anopheles quadrimaculatus Adult Survey
+
+This survey was conducted by the following Mississippi State University
+entomlogy personnel.
+
+                  James Mallet
+                  Robert Fritzius
+                  Sonny Ramaswamy
+                  Huang Jai-Xing
+                  Michael Caprio
+
+
+All collection dates (yymmdd) are for 1993.
+Lat/Longs given in degs mins secs.
+
+Abbreviations:  UB   Under Bridge
+          BLDG Building
+
+Site names are usually based on first 3 letters of the county plus a
+numerical sequence number.  Where the site is at the border of two
+counties the first letters of the counties, separated by a slash,
+is used.  Example  Amite and Wilkinson  = A/W.
+
+Species abbreviations   A = Anopheles quadrimaculatus Say
+               B = Anopheles smaragdinus
+               D = Anopheles maverlius
+
+                                     Coll
+Site & Location                      Date    Gel-nn     Isozyme
+                                     yymmdd  ###-##   Identifcatios
+
+                                                         A   B   D
+Clark Co. Chickasay River            930811  933-13      3  10   0
+W. of Quitman                                ---------------------
+CLK 01                       UB                  13      3  10   0
+
+
+                                                         A   B   D
+Leake Co. Bridge 75 Yds N. of        930810  933-13      0  13   0
+Pearl River, Hwy 25                  930810  935-14      2  12   0
+                              ---------------------
+LKE 01                       UB                  27      2  25   0
+
+
+                                                         A   B   D
+Newton Co., Bridge 5 Mi. N. of       930814  933-12      3   9   0
+Lake MS, swampy area
+                              ----------------------
+NWT 01                       UB                  12      3   9   0
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge, Hut A        930722  931-19      1  16   2
+                              ---------------------
+NOX 70  33 16 45N 88 47 34W  BLDG                19      1  16   2
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge Hut B         930622  931-20      0  18   2
+                              ---------------------
+NOX 71  33 16 45N 88 47 34W  BLDG                20      0  18   2
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge, Rest Rooms   930622  932-18      8   8   2
+at Boat Dock
+                              ---------------------
+NOX                          BLDG                18      8   8   2
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge Big Trees     930622  932-19      3  12   4
+Ranger Hut - Under eaves.
+0.25 Mi SSW of Noxubee River         -----------------------------
+NOX 73  33 17 03N 88 46 40W  BLDG                19      3  12   4
+
+
+
+                                                         A   B   D
+Tishomingo Co.  Hwy 350              930823  935-23     11   2  10
+5.7 Mi W of Hwy 25
+East end of bridge (McMinn Branch)           ---------------------
+TSH 02  34 59 23N 88 19 59W  UB                  23     11   2  10
+
+
+
+End of file.
+

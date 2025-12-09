@@ -1,0 +1,313 @@
+\entomol\ms-aq-92.txt   Created 26 February 2002
+
+     This text file should be viewed with a "vanilla" text editor
+     (or convert to Courier font in a word processor).
+
+
+          Riceland Mosquito Management Program
+
+     1992 Mississippi Anopheles quadrimaculatus Adult Survey
+
+This survey was conducted by the following Mississippi State University
+entomlogy personnel.
+
+               James Mallet
+               Robert Fritzius
+               Sonny Ramaswamy
+               Huang Jia-Xing
+               Michael Caprio
+
+
+All collection dates (yymmdd) are for 1992.
+Lat/Longs given in degs mins secs.
+
+Abbreviations:  UB   Under Bridge
+        TH   Tree Holes
+        CUL  Culvert
+        BLDG Building
+
+Site names are usually based on first 3 letters of the county plus a
+numerical sequence number.  Where the site is at the border of two
+counties the first letters of the counties, separated by a slash,
+is used.  Example  Amite and Wilkinson  = A/W.
+
+Species abbreviations   A = Anopheles quadrimaculatus sensu stricto
+                        B = Anopheles smaragdinus
+                        D = Anopheles maverlius
+(see Reinert et al., 1997. Journal of the American Mosquito Control
+Association, vol. 13 (Supplement), 1-102).
+
+                                     Coll
+Site & Location                      Date    Gel-nn     Isozyme
+                                     yymmdd  ###-##  Identifcations
+
+                                                         A   B   D
+Bolivar Co. (Zumbro) Tractor Barn    920906  905-10     10   0   0
+3 Mi NE of Cleveland                 920906  917-09     09   0   0
+                                     920906  919-10     10   0   0
+                                         ---------------------
+BOL 03  33 46 50N 90 40 32W  BLDG                29     29   0   0
+
+
+                                                         A   B   D
+Bolivar Co. Cleveland, S. Leflore    920906  905-07     07   0   0
+Ave. Bridge over Bayou, 1 Mi S of    920906  919-10     10   0   0
+Hwy 8, Urban area                    920906  923-09     09   0   0
+                                         ---------------------
+BOL 04 33 44 09N 90 43 31W   UB                  26     26   0   0
+
+
+                                                         A   B   D
+Bolivar Co. Church Bridge, 2 Mi W    920906  905-09     09   0   0
+of Skene, 6.8 Mi W of Hwy 61         920906  919-08     08   0   0
+at Boyle  BRUSHY BAYOU               920906  922-15     15   0   0
+                                         ---------------------
+BOL 05  33 42 10N 90 50 13W  UB                  32     32   0   0
+
+
+                                                         A   B   D
+Calhoun Co. 1st 2 Bridges S. of      920711  902-10     10   0   0
+Calhoun City on Hwy 8                920711  903-10      7   2   1
+2nd bridge is over HURRICANE CRK     920711  909-08      6   2   0
+                                         ----------------------
+CAL 02  33 50 39N 89 18 43W  UB                  28     23   4   1
+
+
+                                                         A   B   D
+Clay County. CHUQUATONCHEE CREEK     921012  903-06      2   4   0
+1 Mi W  of West Point on Hwy 50              ---------------------
+CLA 01  33 36 26N 88 43 33W  UB                   6      2   4   0  *
+
+
+                                                         A   B   D
+Holmes County. Drainage Ditch        920917  910-10     10   0   0
+0.25 Mi inside S. edge of county     920917  911-11     11   0   0
+on Hwy 49E                           920917  915-10     10   0   0
+                                     920917  917-04     04   0   0
+                                         ---------------------
+HOL 01  33 00 30N 90 19 23W  UB                  35     35   0   0  *
+
+
+                                                         A   B   D
+Holmes County. Tchula, Bridge SW     920917  905-10     10   0   0
+of Railroad, Hwy 49E                 920917  909-10     10   0   0
+                                     920917  917-10     10   0   0
+                                     920917  920-14     14   0   0
+                                         ---------------------
+HOL 02  33 10 38N 90 13 22W  UB                  44     44   0   0
+
+
+                                                         A   B   D
+Holmes-Attala Co. BIG BLACK RIVER    920917  904-10      9   1   0
+Bridge on Hwy 12 E of Durant         920917  909-10     10   0   0
+                                     920917  914-10     10   0   0
+                                     920917  917-09      7   2   0
+                                     920917  920-13     13   0   0
+                                         ---------------------
+H/A 01  33 03 45N 89 50 02W  UB                  52     49   3   0
+
+
+
+                                                         A   B   D
+Monroe Co. Bridge over TOMBIGBEE     920720  902-10     10   0   0
+Waterway SE of Aberdeen, Hwy 45      920720  909-10     10   0   0
+                                     920720  912-09      9   0   0
+                                     920720  920-06      6   0   0
+                                         ---------------------
+MON 01  33 49 02N 88 31 12W  UB                  35     35   0   0
+
+
+
+                                                         A   B   D
+Montgomery County.  Bridge on        920611  903-11      3   3   5
+Hwy 413 2 Mi S of Kilmichael         920611  909-11      3   2   6
+Near BIG BLACK RIVER                 920611  913-10      0   1   9
+                                     920611  918-09      2   1   6
+                                     920611  925-10      2   2   6
+                                         ---------------------
+MNT 01  33 24 53N 89 32 59W  UB                  51     10   9  32
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge, Hut A        920820  911-09      2   5   2
+                                     920820  929-11      5   2   4
+                                     920908  927-18      9   1   8
+                                     920908  929-09      4   2   3
+                                         ---------------------
+NOX 70  33 16 45N 88 47 34W  BLDG                47     20  10  17
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge Hut B         920727  911-07      0   4   3
+                                     920730  927-14      0  13   1
+                                     920730  930-10      0   8   2
+                                     920831  927-06      4   2   0
+                                     920908  929-10      6   2   2
+                                     920918  924-09      2   0   7
+                                     920918  925-08      2   0   6
+                                         ---------------------
+NOX 71  33 16 45N 88 47 34W  BLDG                64     14  29  21
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge Tree Holes    920727  912-09      0   4   5
+N of Hut B                           920727  925-09      0   4   5
+                                     920831  926-10      3   1   6
+                                         ---------------------
+NOX 76  33 16 46N 88 47 34W  TH                  28      3   9  16
+
+
+
+                                                         A   B   D
+Noxubee Co. Nox Refuge Big Trees     920730  928-09      1   8   0
+Ranger Hut - Under eaves.            920730  930-19      4  13   2
+0.25 Mi SSW of Noxubee River         920830  915-10      3   7   0
+                                     920831  912-05      1   4   0
+                                     920831  928-09      4   4   1
+                                     920908  930-05      4   1   0
+                                     920916  926-09      9   0   0
+                                     920916  928-20     20   0   0
+                                     -----------------------------
+NOX 73  33 17 03N 88 46 40W  BLDG                86     46  37   3
+
+
+
+                                                         A   B   D
+Noxubee Co. Hwy 45 Bypass Bridge     921003  906-10      4   6   0
+over NOXUBEE RIVER at Macon          921003  914-10      4   6   0
+Open farm land                       921003  917-07      2   5   0
+                                         ---------------------
+NOX 77 33 04 19N 88 33 32W   UB                  27     10  17   0
+
+
+
+                                                         A   B   D
+Noxubee Co.  NOXUBEE RIVER Bridge    921003  904-07      6   1   0
+6.3 Mi NE of Hwy 45 at Shuqualak             ---------------------
+NOX 78  33 01 08N 88 27 28W  UB                   7      6   1   0
+
+
+
+                                                         A   B   D
+Noxubee Co. Bridge 0.25 Mi W of      921003  906-11     10   0   1
+Noxubee River, 5.8 Mi NE of Hwy      921003  920-02      2   0   0
+45 at Shuqualak                              ---------------------
+NOX 79  33 01 00N 88 27 51W  UB                  13     13   0   0
+
+
+
+                                                         A   B   D
+Sharkey Co. Delta National Forest    920824  913-11     11   0   0
+W. of Blue Lake Campground under     920824  924-07      7   0   0
+Bridge on N-S Rd 93T                 920824  926-10     10   0   0
+                                         ---------------------
+SHR 01  32 49 50N 90 48 39W  UB                  28     28   0   0
+
+
+
+                                                         A   B   D
+Sharkey Co. Delta National Forest    920824  913-07      7   0   0
+Blue Lake Campground Tree Holes      920824  920-04      4   0   0
+HOWLETT BAYOU                                ---------------------
+SHR 02  32 49 17N 90 48 31W  TH                  11     11   0   0
+
+
+
+                                                         A   B   D
+Sharkey Co. Delta National Forest    920824  902-10     10   0   0
+Next to LITTLE SUNFLOWER RIVER       920824  919-10     10   0   0
+                                     920824  923-10     10   0   0
+                                         ----------------------
+SHR 03  32 41 43N 90 48 59W  TH                  30     30   0   0
+
+
+
+                                                         A   B   D
+Sunflower Co. SUNFLOWER RIV at       920824  906-08      8   0   0
+Hwy 82 under bridge 4.5 Mi E         920824  916-10     10   0   0
+of Indianola                         920824  924-09      9   0   0
+                                         ---------------------
+SUN 01  33 27 39N 90 33 42W  UB                  27     27   0   0
+
+
+
+                                                         A   B   D
+Tishomingo Co. Hwy 350               920429  901-07      1   0   6
+5.7 Mi W of Hwy 25                   920429  911-10      1   0   9
+West end of bridge                   920720  916-12      2   0  10
+                                     920720  925-06      0   0   6
+                                         ---------------------
+TSH 01  34 59 23N 88 20 10W  UB                  35      4   0  31
+
+
+
+                                                         A   B   D
+Tishomingo Co.  Hwy 350              920720  913-07      3   0   4
+5.7 Mi W of Hwy 25                   920720  922-09      8   0   1
+East end of bridge (McMinn Branch)           ---------------------
+TSH 02  34 59 23N 88 19 59W  UB                  16     11   0   5
+
+
+
+                                                         A   B   D
+Tishomingo Co.  Bridge 3.2 Mi S      920720  906-02      2   0   0
+of Hwy 4,  TOM-BIGBEE WATER WAY      920720  901-09      9   0   0
+At Moores Mill.  Marshy                      ---------------------
+TSH 03  34 28 52N 88 19 36W  UB      920720      11     11   0   0
+(Originally listed as
+Prentiss Co.)
+
+
+                                                         A   B   D
+Warren Co. YAZOO RIV at Hwy 61       920824  903-06      6   0   0
+"Killer Bridge" 0.5 Mi N. of         920824  921-08      8   0   0
+Redwood, South End only.             -----------------------------
+WRN 01 32 29 19N 90 48 27W  UB                   14     14   0   0
+
+
+
+                                                         A   B   D
+Warren Co. Bayou 1 Mi N of           920824  902-09      9   0   0
+Yazoo Riv  Hwy 61                    920824  921-12     12   0   0
+                                     920824  926-10     10   0   0
+                                         ---------------------
+WRN 02  32 30 44N 90 48 41W  UB                  31     31   0   0
+
+
+
+                                                         A   B   D
+Webster Co.  Culvert under           920611  904-12      3   8   1
+Natchez Trace 2 Mi N of Hwy 82               ---------------------
+WEB 01  33 33 25N 89 08 09W  CUL                 12      3   8   1
+
+
+
+                                                         A   B   D
+Winston Co. BOBUTCHA CRK             921003  910-08      2   0   6
+Bridge 461, 11 Mi W of               921003  914-08      1   0   7
+Louisville, Hwy 14                   921003  922-03      1   1   1
+                                         ---------------------
+WIN    33 05 55N 89 15 08W   UB                  19      4   1  14
+
+
+
+                                                         A   B   D
+Winston Co. TALLAHAGO CRK            921003  904-10      0   8   2
+Hwy 490 3.5 Mi E of Noxapater        921003  910-09      2   3   4
+                                     921003  922-10      0   5   5
+                                         ---------------------
+WIN 02  32 59 03N 89 00 38W   UB                 29      2  16  11
+
+
+
+                                                         A   B   D
+Yazoo-Madison Co. BIG BLACK RIV      920917  910-10     10   0   0
+at Hwy 49, 5 Mi N. of Flowood        920917  914-10     10   0   0
+                                     920917  916-10     10   0   0
+                                         ---------------------
+Y/M 01  32 36 14N 90 21 52W   UB                 30     30   0   0
+
+End of file.
