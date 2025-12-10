@@ -1,0 +1,96 @@
+NOTES ON SCORING MIKE BLUM'S FG DATA
+27 April 2004
+
+1) I found a few species misidentifications, with reasons given in the
+Excel file attached (modified from Blum).  These include several
+H. demeter bouqueti (both males, identified previously as "burreyi?",
+and females, which were identified as erato erato.
+
+2) Most of the variation seems to be at two genes, which by presumed
+homology with the Peru favorinus x etylus crosses consist of DRy/d and
+Sd/sd, the latter being the "shape" supergene with St (split band, as
+in E Ecuador, being another allele).  I think these genes are pretty solid.
+
+3) There is a peculiar effect segregating in the dennis/ray/yellow fw
+band phenotypes, which is an almost complete absence of distal yellow
+fw spots, creating a big V out of the remaining proximal, anterior and
+posterior spots of the forewing band.  This also seems to show up to
+some extent in otherwise sd/sd indiviuals (pure postman-type shape), so
+it may be unlinked to Sd.  Alternatively, variants of Sd produce similar
+variants on either side of the hybrid zone.  Since it seems more prevalent
+among yellow-banded individuals, I suggest it is merely a variant of the
+amazonian pattern.  It looks very mimetic of some forms of Eueides (e.g.
+tales).  I have not scored it.  See e.g. 90, 115, 116, 118, 126, 139,
+166-168 on yellow fw bands, and 27, 113, 114, 161, 210 on red fw bands.
+
+4) There are some nice strong yellow fw up basal spots on some individuals.
+(i.e. on the anal part of the joint between fw and body, and also affects
+yellow markings on the thorax, head etc.)
+In SE Brazil, "yellow line" (and this is the base of that line) is supposed
+to be linked to Sd, but here it seems to segregate independently.  There is
+an exciting possibility that this basal spot might be linked to Cr, which
+affects the presence of yellow hindwing bar, but which of course does
+not segregate here.  I have some weak evidence from Peru that this is the case
+but in Peru the spot was not strongly expressed, and also didn't segregate
+in many broods.  And anyway the yellow spot phenotype is variable in
+most races I have looked at.
+
+5) The trickiest thing, when scoring this stuff, is to sort out epistasis
+from linkage disequilibrium with respect to forewing band shape (the DRy/d
+scoring is pretty much incontrovertable; you never get yellow forewing bands
+without ray in this area).
+
+My conclusions, based on the phenotypes, and their ratios in the populations
+as well as on the Peruvian broods are as follows.
+
+                Phenotype on different forewing band colours:
+Shape
+Genotype        Red                         Yellow
+
+Sd/Sd           narrow ring of spots        Narrow ring of rather widely separated
+                but spots broader and       spots, spots narrower than same Sd
+                more coalesced than same    genotype on yellow spots.  Due to
+                Sd genotype w/yellow spots. extreme dominance of Sd on yellow backgr
+                e.g. 069, 084               some apparent yellow 'homozygotes' may
+                                            actually be heterozygotes, e.g. 100
+
+Sd/sd           Usually broken up spots     Very similar to above, but with varying
+                on underside, with varying  amounts of blurring and intermediacy,
+                degrees of intermediacy     especially on upperside and in males.
+                and blurred edges,          Much less blurred expression in the
+                especially on upperside     centre of the ring of spots
+                e.g. 76, 114, 142, 200      than in red forewing phenotypes
+                                            e.g. 115, 205, 202.  Probably many of
+                                            these genotypes are lurking within the
+                                            apparent "Sd/Sd" homozygote yellow fw
+                                            band phenotypes.
+
+
+                Thus the "sd" (broad postman band shape) allele is more recessive:
+                                a) on the underside than the upperside
+                                b) on females than on males
+                                c) on yellow than on red forewing colours
+                All of these features are also found in Peruvian Amazonian x postman
+                crosses!
+
+sd/sd           Broad, "postman"            Broad expression, but apparently fuzzy
+                band expression, with few   and with very thick black lines along
+                or weak invaginations or    veins, and over less extensive area than
+                along veins                 red forewing band extent.
+                                            I found only two: 118 and 197.
+
+
+                The differences in Sd expression are well seen in individuals
+                jointly expressing yellow and red as DRy/d heterozygotes: These
+                individuals always have stronger red expression on the outer part of
+                the bands, and near the veins than in the centre of the zone sof
+                expression, where the the yellow 'overprinting' is mostly found.
+
+Because have alleles have variable expression or dosage even in pure races, and
+because heterozygosity halves dosage, it would not be surprising if some of the
+scores of the heterozygotes overlapped some of the homozygotes in some of these
+comparisons.  Thus there are  almost certainly a few "incorrect" scorings here,
+but I have kept these to a minimum.  Realizing this, I tried to lump heterozygotes to
+the most dominant phenotype in my analyses of Peruvian Cr and Sd genotypes, which
+I believe minimizes the risk of mis-scoring.  We should try the analyses in Guiana
+both ways, thus lumping Sd/Sd and Sd/sd as Sd/-, and also separating them.

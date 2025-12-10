@@ -1,0 +1,99 @@
+From George Beccaloni, The Natural History Museum, London, 26 April 2002
+
+My initial thoughts are as follows:-
+
+Producing a Web-based database containing fairly detailed taxonomic info. 
+and host data for World butterfly taxa would be very achievable within say 
+3-4 man years (I am already some way towards doing this). It would also be 
+possible to include basic distributional data as this is present on the NHM 
+index cards (see below). Given perhaps 8-10 man years it should be possible 
+to produce a complete synonymic Web-based catalogue of World butterfly 
+taxa, similar to the catalogue Malcolm Scoble et al. produced for geometrid 
+moths (see the Orthoptera Species File (OSF)
+http://viceroy.eeb.uconn.edu/Orthoptera for a possible Web-based model). I 
+think that such a database is a necessary foundation for the project you 
+are proposing and would be of enormous benefit to Lepidopterists, other 
+biologists and naturalists.
+
+A rough breakdown of the work which I think would be needed to produce the 
+database is as follows:-
+
+1) TAXONOMIC DATA. Most of this info. is available either in existing 
+Paradox databases in the NHM (e.g., Bridges' catalogues) or is contained in 
+the NHM systematic card index to World Lepidoptera names. The latter is now 
+in partial electronic form (i.e. the cards have all been scanned and by the 
+end of the year they will be fully indexed) and it will in the near future 
+be available over the Web. 
+
+The strategy I suggest to produce a database is:- 
+
+a) to get as much of the info. present on the scanned images of the 
+index cards into a database using OCR techniques (which are being developed 
+by our colleagues at the University of Essex); 
+
+b) to check the OCR data firstly against various databases I have produced 
+of author names, journal titles etc and then visually against the electronic 
+card images; 
+c) to replace most of the info. for genus-group names with the data in Brian 
+Pitkin & Paul Jenkins' 'Butterflies & Moths of the World : Generic Names 
+and their Type-species''; 
+
+d) to go through Zoological Record and add all 
+names (and associated info.) published since 1980; 
+
+e) to check all infrasubgeneric names electronically against existing 
+taxonomic catalogues (eg. Bridges); 
+
+f) to manually check all infrasubgeneric names against the 
+original descriptions (and possibly scan in all the original descriptions 
+at the same time) [this alone might take perhaps 4 man years to do!]; 
+
+g) to check relevant parts of the information in the database against the 
+systematic lists being produced by Lamas, Mielke, Robbins, & Callaghan (for 
+Neotropical species) and Ackery, Smith & Vane-Wright's "Carcasson's African 
+Butterflies" (for Afrotropical species) [hopefully all of these will be 
+available in electronic form], plus other recent revisions and systematic 
+lists. This will enable a final check to be made of the basic data and will 
+enable the current combinations of the names to be determined.
+
+2) DISTRIBUTIONAL DATA. Basic info. is present on the index cards for most 
+World butterflies and this could be captured during stage 1d. Locality data 
+for the type specimens would be captured during stage 1. Obtaining detailed 
+distributional data from museum specimens in World collections would be a 
+massive undertaking....
+
+3) HOST INFO. A large amount of this has already been compiled into 
+database form by myself, Gaden Robinson, Phil Ackery and students, but more 
+data input would be necessary for certain World regions. It might take 1-2 
+additional man years to do a really thorough job.
+
+4) TYPE SPECIMEN PHOTOGRAPHS. At a guess I would say that it would take 1-2 
+man years to obtain a fairly good set of electronic photos of type 
+specimens of World butterflies. The NHM has many existing slides of 'types' 
+which could be scanned and Gerardo and others have a lot of photos of types 
+which they might be willing to lend so that they too can be scanned. If one 
+were to start from scratch and photograph all the types in the NHM and 
+other collections in a standardized fashion then this would be a huge 
+undertaking (not least because of the difficulty of simply locating the 
+types in the collections concerned).....
+
+5) WEB SITE. I guess it might take someone up to 6 months to produce a good 
+web site to host the above data. Ideally there should be a facility whereby 
+trusted experts can modify and add to the data contained within the site 
+(although all suggested changes and additions should be vetted by an editor 
+first before they are implemented).
+
+Hope to hear from you soon.
+
+Cheers,
+
+George
+..........................................................................................................................................
+Dr George Beccaloni
+Research Entomologist
+Entomology Dept.
+The Natural History Museum
+Cromwell Rd
+South Kensington
+London SW7 5BD
+

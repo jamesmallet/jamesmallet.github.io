@@ -1,0 +1,156 @@
+Peru erato genetics.
+4 May 2004
+
+I was intrigued by something Chris said on 28 April:
+"so that
+means that the hypothesis proposed in Jiggins & McMillan
+1997 (see fig 2) - that all amazonian erato races are
+fixed for a himera-like allele at Cr is supported,
+because you do not see segregation of Cr in your
+himera x etylus broods".
+
+In spite of the fact he did this genetics in my lab,
+I have never tested this theory with my own data from
+Peru in 1986-1987 (see Mallet,J 1989: The genetics of
+warning colour in Peruvian hybrid zones
+of _Heliconius erato_ and _H. melpomene_. Proc. Roy.
+Soc. Lond. B 236, 163-185).  Here I go back to test
+whether Cr (which is segregating as yellow hw bar) can
+explain (a) black invasion of yellow fw band in DRy/DRy
+homozygotes, (b) yellow invasion of red forewing bands
+in DRy/d heterozygotes, and (c) I also looked at the
+effect on yellow basal forewing spots, which is associated
+with the Amazonian race, and correlates with yellow body
+colour.
+
+The results are given in the accompanying file:
+
+http://www.ucl.ac.uk/taxome/hyb/FGBlum/peru_erato_genetics.xls.
+
+Here, I show the results from the only broods
+that have a bearing on the hypothesis
+that the same interactions as in
+himera x etylus crosses also explain the
+favorinus (postman) x emma (Amazonian) in
+the Peru hybrid zone.
+
+I think you can see from the data
+why I did not think of the hypothesis!
+
+Firstly, I had few broods that were
+informative (in particular, female informative
+double heterozygotes are needed for Cr and for presence
+of yellow in the forewing; and since the trait is
+variably present, it doesn't really show up that often
+in the right arrangements).  This is as true for
+red/yellow invasion as for yellow/black invasion.
+Yellow basal spots are also variable.
+
+Secondly, whereas the hypothesis explains
+some of the data in PE9, PE15, and PE28, it doesn't
+explain the lack of yellow invasion in PE21 and PE27.
+As you can see, most of the yellow expression is
+explained by (a) brood-to-brood variability unrelated
+to Cr, and by (b) DRy genotype.
+
+However, it is clear that Cr has some explanatory value,
+even in these crosses.  See especially PE15, in which
+a *somewhat* informative Aconitase polymorphism is
+co-segregating. It appears that there are "strong"
+and "weak" Cr alleles, if you like (? more or fewer
+transcription factor binding sites???!! --though
+this may be to do with the genetic background on which
+Cr is acting).
+
+Another intriguing factor is that the Cr locus seems to
+be affecting the presence of the yellow basal spot in the
+forewing.  This is a characteristic of the Amazonian race
+which is variably polymorphic elsewhere.  I have scored it
+as absent (-), trace (+) and strong (++).  The yellow
+spot is much better developed in Mike Blum's French Guiana
+hybrid zone, where it is clearly segregating independently
+of DRy and Sd.
+
+The yellow line colour pattern found in SE Brazil might be
+thought to be an analogue of this yellow spot in Amazonia,
+but that is supposed to be tightly linked to Sd; it is
+gene Yl.  However, there may be a similar interaction here;
+I wonder if anyone has tested.
+
+Anyway, thought I ought to clue you in on what I found.  It
+is certainly suggestive.
+
+Jim
+
+Date: Wed, 05 May 2004 00:35:32 +0100
+To: Chris Jiggins
+From: "Jim Mallet (83Ab)"
+
+Chris,
+
+At 19:13 04/05/2004, you wrote:
+
+>hey, that's neat.  It certainly looks like there is an
+>effect of Cr on the penetrance of red in the forewing.
+>If I am interpreting the tables right, they show that
+>the yellow hindwing allele at Cr reduces the invasion
+>of yellow in the forewing in D/d heterozygotes - is
+that right?
+
+Yes, call this is the cr <lowercase> recessive allele
+that produces yellow hw bar (from the postman race):
+
+If you like -- the way I see it!--, the Cr allele from
+Amazonia variably ADDS yellow expression (I of course
+believe it to be derived in erato!) to the forewing in
+red heterozygotes only (on the whole -- PE15#32, which
+is d/d is the very unusual exception) to produce
+red-yellow overprinting; it can do this both as
+heterozygotes Cr/cr (e.g. PE15, PE28), and as homozygous
+Cr/Cr (e.g. PE27, PE28).
+
+Meanwhile, cr variably SUBTRACTS yellow from the
+forewing band, only in DRy/DRy homozygotes.  And it can
+do this both as heterozygote Cr/cr or as homozygote
+cr/cr (PE9).
+
+In your Jiggins & McMillan 1997 himera hypothesis --
+you only argue for overprinting when you have Crhi/Crhi
+Dhi/Dcyr genotypes, but I clearly remember it happening
+in some of your F1 broods, as here.
+
+Similarly, you argue that you can tell apart the black
+forewings when you have Dhi/Dhi Cr-cyr/Cr-cyr homozygotes,
+from black scale invasion in Dhi/Dhi Cr-hi/Cr-cyr
+heterozygotes, and from full yellow fw expression in
+Dhi/Dhi Cr-hi/Cr-hi homozygotes.  You are therefore
+probably going to misscore your ((cyrxhimF1) x himera)
+backcrosses for Cr; and, er.... funnily enough I am now
+reviewing this for Heredity!
+
+However, do you not think it is true that you cannot
+misscore D heterozygotes in these himera backcross broods,
+since you are always going to see red in the forewing if
+it is a het?  So there is no reason, to my mind, why you
+would get this effect of D pushing out to the end of the
+chromosome in your mapping brood because of epistasis,
+as you suggest in some places in the ms.
+
+If you view yellow forewing expression as an effect of
+the Cr locus, then you have to say it has variable
+expression.  If you view it as a function of DRy, which
+it clearly is to some extent, then DRy has a variable
+effect on yellow expression.
+
+In any case, I agree that the Cr expression in Amazonia
+is similar to that in your himera/cyrbia crosses.  Is it
+any more variable, though?  I doubt it.
+
+Incidentally, I wonder whether you could score band shape
+in the cyrbia backcross; but probably just not in the
+(cyrxhim)x himera backcross -- it would be interesting to
+see if it were linked to the same Sd gene found in the
+himera x etylus crosses!
+
+All the best, Jim
+
